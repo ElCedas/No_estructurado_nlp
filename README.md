@@ -9,3 +9,5 @@ Desde ahi saldra una pagina en local al igual que en el otro trabajo.
 Con esto se tendra un ejemplo interactivo del modelo.
 Se consigue tener un modelo decente, aunque por falta de processing power, tampoco se puede hacer mucho mas, debido a modelos que tardan dias enteros por epoch,
 se acabo con un modelo con un dataset reducido pero sigue teniendo buenos resultados.
+
+Solo inclui el ultimo modelo, ya que son muy grandes los files(del bert),400mb cada uno.
