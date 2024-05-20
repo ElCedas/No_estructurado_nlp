@@ -5,6 +5,7 @@ Este trabajo se centra en modelar un modelo nlp para sentiment analisis del data
 
 Se evaluaran varios modelos con el proposito de intentar llegar a uno final y tener un streamlit app para el.
 Se runnea con streamlit run streamlit.py
+En el screenshot se puede ver como aparece la imagen.
 Desde ahi saldra una pagina en local al igual que en el otro trabajo.
 Con esto se tendra un ejemplo interactivo del modelo.
 Se consigue tener un modelo decente, aunque por falta de processing power, tampoco se puede hacer mucho mas, debido a modelos que tardan dias enteros por epoch,
