@@ -8,3 +8,5 @@ Se evaluaran varios modelos con el proposito de intentar llegar a uno final y te
 (Debido a no tener acceso al ordenador donde entrene y puedo lodear bien el modelo(no tengo la version exacta de la libreria y no puedo verla) no puedo acabar el modelo ahora mismo
 por lo que uplodeare la version final esta tarde, pero esta ya tiene la gran mayoria del contenido)
 Con esto se tendra un ejemplo interactivo del modelo.
+
+Requierements seran updateados despues tambien.
