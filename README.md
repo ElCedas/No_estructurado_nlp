@@ -4,9 +4,8 @@ Modelo de nlp para el proyecto del modulo de Analisis de analisis no estructurad
 Este trabajo se centra en modelar un modelo nlp para sentiment analisis del dataset conocido de IMBD.
 
 Se evaluaran varios modelos con el proposito de intentar llegar a uno final y tener un streamlit app para el.
-(Lo implementare con el modelo final que commiteare por la tarde)
-(Debido a no tener acceso al ordenador donde entrene y puedo lodear bien el modelo(no tengo la version exacta de la libreria y no puedo verla) no puedo acabar el modelo ahora mismo
-por lo que uplodeare la version final esta tarde, pero esta ya tiene la gran mayoria del contenido)
+Se runnea con streamlit run streamlit.py
+Desde ahi saldra una pagina en local al igual que en el otro trabajo.
 Con esto se tendra un ejemplo interactivo del modelo.
-
-Requierements seran updateados despues tambien.
+Se consigue tener un modelo decente, aunque por falta de processing power, tampoco se puede hacer mucho mas, debido a modelos que tardan dias enteros por epoch,
+se acabo con un modelo con un dataset reducido pero sigue teniendo buenos resultados.
